@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nakyung128
+- 👀 I’m interested in app development
