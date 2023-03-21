@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @nakyung128
-- 👀 I’m interested in app development
+- 👀 I’m interested in Android & iOS app development
