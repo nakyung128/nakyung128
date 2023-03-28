@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=90&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome!&fontSize=90&fontColor=7F52FF" />
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
