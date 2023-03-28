@@ -25,8 +25,8 @@
 <div align=center>
 	<p>📝 Record </p>
 	<a href="https://github.com/nakyung128"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" /></a>
-	<a href="https://p-rogramming.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
-	<a href="https://basalt-barberry-0ae.notion.site/ec9d0e1f28d845bd84bca180bb8d5e2e?v=36da809f387a4e2795d6881ab00f450b"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+	<a href="https://p-rogramming.tistory.com"><img src="https://img.shields.io/badge/Tistory-181717?style=flat&logo=Tistory&logoColor=white" /></a>
+	<a href="https://basalt-barberry-0ae.notion.site/ec9d0e1f28d845bd84bca180bb8d5e2e?v=36da809f387a4e2795d6881ab00f450b"><img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white" /></a>
 </div>
 <br><br><br>
 <div align="center">
