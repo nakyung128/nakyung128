@@ -11,6 +11,7 @@
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat&logo=JAVA&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
