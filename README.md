@@ -1,12 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=nakyung%20Github!&fontSize=90&fontColor=7F52FF" />
 
-<div align=center>
+<div align="center">
 	<h3>👩🏻‍💻 My Tech Stack </h3>
 	<br>
 	<p>🔡 Languages </p>
-</div>
-<br>
-<div align="center">
+	
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />	
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
