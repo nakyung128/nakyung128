@@ -2,11 +2,11 @@
 
 <div align="center">
 	<h3>👤 I'm... </h3>
-	<p>interested in App Development</p>
+	<p>interested in Android/iOS App Development</p>
 	<p>in Seoul Women's University</p>
 	<p>a software convergence major</p>
 </div>
-
+<br><hr><br>
 <div align="center">
 	<h3>👩🏻‍💻 My Tech Stack </h3>
 	<br><br>
