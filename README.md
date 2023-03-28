@@ -43,7 +43,7 @@
 	<p>🫶 Most Used</p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakyung128&layout=compact"><br><br>
 	<p>✨ Github stats</p>
-	<img src="https://github-readme-stats.vercel.app/api?username=nakyung128&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=nakyung128&show_icons=true"><br><br>
 	<p>😵‍💫 Baekjoon</p>
-	<img src="http://mazassumnida.wtf/api/generate_badge?boj=ruddd0128)](https://solved.ac/ruddd0128">
+	[![Solved.ac nakyung](http://mazassumnida.wtf/api/generate_badge?boj=ruddd0128)](https://solved.ac/ruddd0128)
 </div>
