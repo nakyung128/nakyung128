@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=nakyung%20Github!&fontSize=90&fontColor=7F52FF" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=nakyung's%20Github!&fontSize=90&fontColor=7F52FF" />
 
 <div align="center">
 	<h3>👩🏻‍💻 My Tech Stack </h3>
