@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=nakyung's%20Github!&fontSize=90&fontColor=7F52FF" />
 
 <div align="center">
-	<h3>👤 I'm... </h3>
+	<h3>👤  I'm... </h3>
 	<p>interested in Android/iOS App Development</p>
 	<p>in Seoul Women's University</p>
 	<p>a software convergence major</p>
