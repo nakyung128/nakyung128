@@ -24,7 +24,7 @@
 <br><br><br>
 <div align=center>
 	<p>📝 Record </p>
-	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+	<a href="https://github.com/nakyung128"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" /></a>
 	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
