@@ -2,13 +2,13 @@
 
 <div align="center">
 	<h3>👩🏻‍💻 My Tech Stack </h3>
-	<br>
+	<br><br>
 	<p>🔡 Languages </p>
 </div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />	
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=C++&logoColor=white" />
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=Swift&logoColor=white" />
 </div>
