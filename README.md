@@ -10,10 +10,11 @@
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=Swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/777BB4?style=flat&logo=JAVA&logoColor=white" />
+	<img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat&logo=JAVA&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 </div>
 <br><br><br>
 <div align=center>
