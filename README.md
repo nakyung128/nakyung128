@@ -45,5 +45,5 @@
 	<p>✨ Github stats</p>
 	<img src="https://github-readme-stats.vercel.app/api?username=nakyung128&show_icons=true"><br><br>
 	<p>😵‍💫 Baekjoon</p>
-	[![Solved.ac nakyung](http://mazassumnida.wtf/api/generate_badge?boj=ruddd0128)](https://solved.ac/ruddd0128)
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ruddd0128)](https://solved.ac/ruddd0128)
 </div>
