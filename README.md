@@ -41,7 +41,7 @@
 </div>
 <br><br><br>
 <div align="left">
-	<p>🫶 𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍</p>
+	<p>🖤 𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍</p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakyung128&layout=compact">
 </div>	
 <div align="center">
