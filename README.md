@@ -1,9 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=nakyung's%20Github!&fontSize=60&fontColor=7F52FF" />
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{nakyung128}?pet-id=1" width="1000" height="120"/>
-</a>
-
 <div align="center">
+	<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/nakyung128"
+  width="600"
+  height="300"
+/>
+</a>
 	<h3>👤  𝐈'𝐦... </h3>
 	<p>👀 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍/𝚒𝙾𝚂 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</p>
 	<p>💻 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚌𝚘𝚗𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎 𝚖𝚊𝚓𝚘𝚛</p>
@@ -55,5 +58,4 @@
 	<p>😵‍💫 𝙱𝚊𝚎𝚔𝚓𝚘𝚘𝚗</p>
 	<img src="http://mazassumnida.wtf/api/generate_badge?boj=ruddd0128">
 </div>
-
 
