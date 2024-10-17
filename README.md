@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=nakyung's%20Github!&fontSize=90&fontColor=7F52FF" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=nakyung's%20Github!&fontSize=60&fontColor=7F52FF" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{nakyung128}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <div align="center">
 	<h3>👤  𝐈'𝐦... </h3>
