@@ -20,8 +20,7 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=Swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat&logo=JAVA&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
 </div>
 <br><br><br>
 <div align=center>
