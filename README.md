@@ -25,12 +25,8 @@
 <br><br><br>
 <div align=center>
 	<p>🛠️ 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 & 𝚃𝚘𝚘𝚕𝚜 </p>
-	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
-	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
-	
+	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
+	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />	
 </div>
 <br><br><br>
 <div align=center>
